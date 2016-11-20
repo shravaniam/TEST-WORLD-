@@ -3,7 +3,10 @@
 	<App>
 		<pages>
 			<Page title="Title">
-				<content></content>
+
+
+				<content> "This is the test application "</content>
+
 			</Page>
 		</pages>
 	</App>
